@@ -22,6 +22,7 @@ background: linear-gradient(234deg, rgba(255, 125, 2, 0.72) 0%, rgba(227, 110, 0
 /* aqui inicia el header */
 
 header{ 
+
   display: flex;
   align-items: center;
     margin: 0 auto;
@@ -73,6 +74,7 @@ header{
     border: none;
     color: white;
     cursor: pointer;
+    
 
 }
 .btn-header:hover{
